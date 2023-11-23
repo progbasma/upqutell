@@ -57,5 +57,7 @@
     "Forum": false,
     "Calendar": false,
     "OrgInstructorPolicy": false,
-    "CourseInvitation": false
+    "CourseInvitation": false,
+    "AoraPageBuilder": true,
+    "SidebarManager": true
 }
